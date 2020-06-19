@@ -1,1 +1,1 @@
-# Auto-Background-Generator-App
+Background-Generator-Application
